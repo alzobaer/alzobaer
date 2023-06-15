@@ -1,3 +1,4 @@
+<img src="H:\Personal Documents\git_profile.gif">
 <h1 align="center">Hi 👋, I'm Al Zobaer Samrat</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
