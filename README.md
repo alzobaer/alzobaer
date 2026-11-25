@@ -1,4 +1,4 @@
-![Al Zobaer — Robotics · 3D Vision · Smart Agriculture](https://github.com/alzobaer/alzobaer/assets/48239892/f5c7f4c2-5df7-4ecf-a940-8c1907e56766)
+<img src="assets/banner.svg" alt="Al Zobaer: PhD Candidate, agricultural robotics and 3D Gaussian Splatting" width="100%">
 
 <h1 align="center">Hi, I'm Al Zobaer 👋</h1>
 <p align="center">
